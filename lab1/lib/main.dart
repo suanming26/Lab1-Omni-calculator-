@@ -220,7 +220,7 @@ class _MyAppState extends State<MyApp> {
                     value: "m",
                   ),
                   DropdownMenuItem(
-                    child:Text("in",style:TextStyle(fontSize:15),),
+                    child:Text("in",style:TextStyle(fontSize:20),),
                     value: "in",
                   ),
                   
